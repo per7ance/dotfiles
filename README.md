@@ -23,7 +23,7 @@ The configuration files I use. Star the repo if you liked :)
 - Cursor: Capitaine Cursors - White
 - Font: Noto Sans 11
 - Terminal: Xfce4-terminal
-    - Shell: zsh with powerline10k theme
+    - Shell: zsh (oh-my-zsh) with powerline10k theme
 - Browser: Firefox
     - Theme: FlyingFox
     - Startpage: Square Start Page extension

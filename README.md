@@ -7,11 +7,8 @@ The configuration files I use. Star the repo if you liked :)
 ![image](screenshots/Spotify.png)
 ![image](screenshots/Notion.png)
 ![image](screenshots/Discord.png)
+![image](screenshots/Other.png)
 
-<br/>
-<br/>
-
-Coming soon in the next commit.
 <br/>
 <br/>
 

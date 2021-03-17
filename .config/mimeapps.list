@@ -1,0 +1,6 @@
+[Added Associations]
+text/plain=xed.desktop;
+application/json=xed.desktop;
+
+[Default Applications]
+x-scheme-handler/postman=Postman.desktop
